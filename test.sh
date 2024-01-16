@@ -1,4 +1,4 @@
 Hello world
 Date
 echo $SHELL
-PWD # This is modfied in master branch
+lsb_release -a # This is modified in development branch
